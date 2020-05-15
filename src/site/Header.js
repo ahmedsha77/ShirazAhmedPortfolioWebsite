@@ -35,7 +35,7 @@ const Header = () => (
             <div style={{ height: '600px'}} />
 
         <div class='links'>
-        <Link href="https://docs.google.com/document/d/1AdT2uQU1uhkA6QojvqsL5fs6NTD6pp3dPYbxl3gtnso/edit?usp=sharing" target="_blank" color="inherit">
+        <Link href="https://docs.google.com/document/d/1bGKSs88SPTbEA9VR_k0mqd2mGZGuP1xni0n6oe00ubs/edit?usp=sharing" target="_blank" color="inherit">
     {'Resume'}
   </Link>
           &nbsp;&nbsp;&nbsp;
