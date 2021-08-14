@@ -151,30 +151,6 @@ I hope you enjoy the various design aspects in my portfolio website made with Re
   </div>
 </Parallax>
 
-<Parallax
-            blur={{ min: -15, max: 15 }}
-            bgImage={require('../Assets/background.PNG')}
-            strength={700}
-            width={100}
-            
-        >
-<div class="projectfour">
-  <h4>Project Four</h4>
-  <h3>E-Recruit</h3>
-  <p>A team project created in AngularJS. Allows users to find jobs and recruiters with an API.
-     Full Stack Application made with PostgreSQL, Express, Angular, and Node.</p>
-  <div class="stbutton">
-  <Button a href="https://e-recruit-client.herokuapp.com/" target="_blank" variant="contained" color="secondary">
-  Enter Website
-  </Button>
-  <br/>
-  <br/>
-  </div>
-  <img src={erecruit} height='400px' width='900px'/>
-  <br />
-<br />
-  </div>
-</Parallax>
 
 <div id="hi">
         <Row>
