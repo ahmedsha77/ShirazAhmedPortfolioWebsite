@@ -4,7 +4,7 @@ import { Col, Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap
 export default class Formed extends React.Component {
   render() {
     return (
-        <Form action="https://formspree.io/ahmedsha@iu.edu" method="POST">
+        <Form action="https://formspree.io/shirazahmed.am@gmail.com" method="POST">
             <h4>Contact Me</h4>
         <FormGroup row>
           <Label for="exampleEmail" sm={2}>Email</Label>
